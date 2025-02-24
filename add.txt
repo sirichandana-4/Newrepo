@@ -1,3 +1,7 @@
-hi
+hi123
 hello
+<<<<<<< HEAD
 good
+=======
+hi
+>>>>>>> abc
